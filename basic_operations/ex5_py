@@ -1,0 +1,5 @@
+foo = ['a', 'b', 'c']
+print(foo[3])      # will this result in an error? 
+
+# yes, because the element isnt available
+#list index out of Range. IndexError

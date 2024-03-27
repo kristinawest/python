@@ -1,0 +1,10 @@
+'True' #string
+False #Boolean
+(1, 2, 3) #Tuple
+1.5 #Float
+[1, 2, 3] #list
+2 #integer
+range(5) #range
+{1, 2, 3} #set
+None #None type
+{'foo': 'bar'} #dictionary

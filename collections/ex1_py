@@ -1,0 +1,3 @@
+people = ['kristina', 'jon', 'nice']
+
+print(len(people))

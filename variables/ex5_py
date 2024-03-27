@@ -1,0 +1,6 @@
+name = 'Victor'
+print('Good morning,' + ' ' + name)
+print('Good afternoon,' + ' ' + name)
+print('Good evening,' + ' ' + name)
+
+
